@@ -1,0 +1,49 @@
+
+section{
+  width: 960px;
+  margin: 0 auto;
+
+}
+#bottom{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  color: white;
+  background-color: #666666;
+  padding-top: 60px;
+  text-align: center;
+  border-top: 6px solid #4aaaa5; 
+} 
+textarea {
+  width: 100%;
+  margin: 0 auto;
+  height: 250px;
+  font-size: 20px;
+}
+.box{
+   width: 600px;
+   height: 400px;
+   padding: 20px;
+   margin: 100px auto;
+   background-size: 100%;
+}
+.h1{
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 50%;
+    width:93.3%;
+    text-align: center;
+}
+
+.row{
+  border: 1px solid saddlebrown;
+}
+
+.box{
+  border: 1px solid saddlebrown;
+}
+
+img{
+  width: 100%;
+  margin: 0 auto;
+}
